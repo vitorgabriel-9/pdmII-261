@@ -1,0 +1,7 @@
+{
+    "nomeProjeto": "Projeto em Dart",
+    "funcionarios": [
+        {"nome":"João", "dependentes": [{"nome":"Ana"}, {"nome":"Carlos"}]},
+        {"nome":"Maria", "dependentes": [{"nome":"Marina"}]}
+    ]
+}
