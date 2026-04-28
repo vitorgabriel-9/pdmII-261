@@ -26,4 +26,4 @@ Aprendizado e Adestramento: O domínio de um jogo de linguagem não ocorre por e
  Uma criança aprende a "jogar" a linguagem observando as reações dos outros e participando ativamente das situações, integrando palavras e gestos.
 Essa abordagem transforma a compreensão da educação, sugerindo que o ensino deve focar no domínio desses jogos de comunicação e na percepção do sentido prático da linguagem em movimento.
 
-Contextos reais: Conversas informais com mensagens, como em redes sociais, por exemplo, que possuem abreviações e contextos implícitos, opiniões. Em contextos de linguagem jurídica, atendimento ao cliente, comunidades online, e na programação também. 
+Contextos reais: Conversas informais com mensagens, como em redes sociais, por exemplo, que possuem abreviações e contextos implícitos, opiniões. Em contextos de linguagem jurídica, atendimento ao cliente, comunidades online, e na programação também.
